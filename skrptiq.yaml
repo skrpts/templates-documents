@@ -1,0 +1,42 @@
+# --- Identity ---
+id: "2450c792-dd77-4671-8501-4c45430d5cd5"
+name: "templates-documents"
+display_name: "Document Templates"
+description: "Document templates — PRDs, specs, reports, emails, research, and project management"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/templates-documents"
+
+# --- Discovery (Hub) ---
+category: "templates"
+tags:
+  - "templates"
+  - "document"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling: []
+
+# --- Manifest flags ---
+template: true
+
+# --- Contents ---
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 1
+  services: 0
+  sources: 0
+  documents: 31
+  assets: 0
+  total: 32
