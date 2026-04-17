@@ -3,7 +3,7 @@ id: "2450c792-dd77-4671-8501-4c45430d5cd5"
 name: "templates-documents"
 display_name: "Document Templates"
 description: "Document templates — PRDs, specs, reports, emails, research, and project management"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=1.0.0"
 
 # --- Attribution ---
@@ -34,9 +34,9 @@ template: true
 contents:
   skills: 0
   prompts: 0
-  workflows: 1
+  workflows: 0
   services: 0
   sources: 0
   documents: 31
   assets: 0
-  total: 32
+  total: 31
